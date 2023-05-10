@@ -1,0 +1,21 @@
+name: tvs
+type: theme
+base theme: stark
+description: This theme developed by harshit shukla for responsive perpose
+package: Custom
+core: 10.x
+core_version_requirement: ^9 || ^10
+libraries:
+  - tvs/global
+regions:
+  header: 'Header'
+  primary_menu: 'Primary menu'
+  secondary_menu: 'Secondary menu'
+  page_top: 'Page top'
+  page_bottom: 'Page bottom'
+  featured: 'Featured'
+  breadcrumb: 'Breadcrumb'
+  content: 'Content'
+  sidebar_first: 'Sidebar first'
+  sidebar_second: 'Sidebar second'
+  footer: 'Footer'
